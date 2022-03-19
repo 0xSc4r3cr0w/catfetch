@@ -7,7 +7,7 @@ Secondly I tried to use only programs that are by default on the system, so the 
 
 Now let's get to the part about how to use it...
 
-# 🛠️  H O W   T O   I N S T A L L  🛠️
+# 🛠️  H O W - T O - I N S T A L L  🛠️
 To install catfetch, first clone the repository on your system.
 ```
 git clone https://github.com/nekolink/catfetch.git
@@ -21,7 +21,7 @@ chmod +x installer.sh
 
 The installer will install catfetch in the folder /usr/local/bin/ and the logo file will be in the folder /usr/local/src/.
 
-# ⚗️  H O W   T O   U S E  ⚗️
+# ⚗️  H O W - T O - U S E  ⚗️
 Now the hardest part, and I don't know if you will be able to do it, is to run catfetch.
 ```
 catfetch
